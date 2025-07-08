@@ -1,0 +1,13 @@
+SYMBOLS = [
+    "BTCUSDT",
+    "PENGUUSDT",
+    "WIFUSDT",
+    "ADAUSDT",
+    "TUTUSDT",
+    "BNBUSDT",
+    "ETHUSDT",
+    "MUBARAKUSDT",
+]
+
+VOLUME_MULTIPLIER = 1.5  # Порог для об'єму
+INTERVAL_SECONDS = 300
